@@ -9,6 +9,8 @@
 
 ---
 
+**Resume [PDF]:** [![Resume]](https://github.com/vahejab/Resume/Vahe R Jabagchourian's Resume - Latest.pdf)
+
 ## Table of Contents
 
 1. [Professional Summary](#1-professional-summary)  
