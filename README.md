@@ -9,7 +9,7 @@
 
 ---
 
-**Resume [PDF]:** [!Resume]([https://github.com/vahejab/Resume/Vahe R Jabagchourian's Resume - Latest.pdf](https://github.com/vahejab/Resume/blob/main/Vahe%20R%20Jabagchourian's%20Resume%20-%20Latest%20-%20Revised.pd)
+**Resume [PDF]:** [!Resume](https://github.com/vahejab/Resume/Vahe R Jabagchourian's Resume - Latest.pdf)(https://github.com/vahejab/Resume/blob/main/Vahe%20R%20Jabagchourian's%20Resume%20-%20Latest%20-%20Revised.pd)
 
 ## Table of Contents
 
