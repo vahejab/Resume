@@ -79,11 +79,11 @@ I am especially interested in roles involving **ASIC hardware design, FPGA proto
 
 ## 4. Featured Hardware Projects
 
-### 4.1 Xilinx Virtex-7 VC707 FPGA GPU / 3D Graphics Accelerator Work
+### 4.1 Xilinx Virtex-7 VC707 FPGA GPU / 3D Graphics Accelerator
 
-**Project:** Xilinx Virtex-7 VC707 Based FPGA GPU Implementation  
+**Project:** Virtex-7 Extensible - Compute Graphics Accerator (Formely titled as the Xilinx Virtex-7 VC707 Based FPGA GPU Implementation) 
 **Timeline:** Jan 2023 – Present  
-**Repository:** [arty_sv_sampler](https://github.com/vahejab/arty_sv_sampler)
+**Repository:** [V7X-CGA](https://github.com/vahejab/V7XCGA)
 
 Highlights:
 
