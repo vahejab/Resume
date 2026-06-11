@@ -1,7 +1,7 @@
 # Vahe R. Jabagchourian
 
 **ASIC / FPGA Hardware Design Engineer**  
-**Analog / Digital Design • Verilog HDL • FPGA Prototyping • EDA Tools • Test & Measurement • Web-Based Engineering Tools**
+**Analog / Digital Design • Verilog HDL • FPGA Prototyping • Software Based Development Engineering • Electronic Design Automation Tools • Test & Measurement • Web-Based Engineering Tools**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vahe--jab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahe-jab/)
 [![GitHub](https://img.shields.io/badge/GitHub-vahejab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vahejab)
