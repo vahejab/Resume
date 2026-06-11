@@ -46,11 +46,11 @@ I am especially interested in roles involving **ASIC hardware design, FPGA proto
 ## 2. Core Engineering Strengths
 
 - Architecturally minded and highly systematic in planning, implementation, and verification
-- Strong attention to detail across hardware, software, documentation, and measurement workflows
-- Comfortable learning new technical subjects quickly and iterating from feedback
-- Experienced translating complex technical requirements into working systems, diagrams, dashboards, and reports
-- Strong communication style across technical, non-technical, and stakeholder-facing environments
-- Persistent, curious, and highly motivated by engineering problem solving
+- Strongly, aggressively, meticuously and relentlessly attentive to every small detail across hardware, software, documentation, and measurement workflows
+- Comfortable learning new a multitude of new technical / non technical subjects rapidly and iterating from immediate feedback for rapid utilizaiton 
+- Experienced translating complicated and obscure technical requirements into working systems, diagrams, dashboards, and reports
+- Strongly communicative, interactive and responsive, interpersonally, textually and visually alongside technologists, non-technologists, stakeholders, and customers served
+- Persistent, curious, and hungry to solve and eliminate difficult engineering problems
 
 ---
 
