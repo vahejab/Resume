@@ -290,7 +290,7 @@ Relevant undergraduate coursework:
 |---|---|
 | English | Native speaker, reader, writer, understander |
 | Armenian | Native speaker, reader, writer, understander |
-| Spanish | Advanced speaker, reader, understander |
+| Spanish | Advanced speaker, reader, wrtier, comprehender |
 
 ---
 
@@ -305,7 +305,7 @@ Relevant undergraduate coursework:
 
 ## Current Focus
 
-I am actively strengthening my portfolio around:
+Actively strengthening my portfolio of service around:
 
 - ASIC / FPGA hardware design
 - Verilog HDL and SystemVerilog-oriented prototyping
