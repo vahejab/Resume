@@ -29,17 +29,17 @@
 
 ## 1. Professional Summary
 
-I am an **M.S. Electrical Engineering** graduate and hands-on technologist focused on **ASIC / FPGA hardware design**, digital systems, verification-oriented development, and engineering tool creation.
+**M.S. Electrical Engineering**, Intent on developing **ASIC / FPGA hardware design** to segue into quantumetric architectural development, standardization and solidification, starting with hard foundation in digital electronic systems, verification-driven development, and engineering tool creation.
 
 My background combines:
 
 - FPGA development using **Verilog HDL**, simulation tools, and Xilinx platforms
-- Digital and mixed-signal coursework and project experience
+- Digital and mixed-signal coursework and project experience I have from hands and exceptinal research ability to locate appropritate correct resourceful designs for referentially and directly utilizing 
 - Web-based engineering applications using **PHP, JavaScript, SQL, AngularJS, ReactJS, D3.js, and REST APIs**
-- Engineering automation tools for documentation, reports, dashboards, and data-driven workflows
-- Practical lab experience with oscilloscopes, spectrum analyzers, multimeters, and logic analyzers
+- Engineering automation tools such as PHPOffice, TinyButStrong - both of which generate Office Doucments (the 1st of the two PHPOffice for producing any PowerPoint type chart and Word chart, and the 2nd TinyButStrong for producing templated charts and graphs and formatted reports, dashboards, and data-driven summaries for reporting workflows)
+- Practical electronic laboratory eqipment experience with starting with oscilloscopes, frequency spectrum analyzers, digital and analog signal multimeters, and digital logic analyzers and soon to be protocol analyzers.
 
-I am especially interested in roles involving **ASIC hardware design, FPGA prototyping, digital architecture, verification, EDA workflows, and engineering systems development**.
+I am especially interested in roles involving myself immersively in every phase of **ASIC hardware design, FPGA prototyping, digital architecture, verification, EDA workflows, and engineering systems development**.
 
 ---
 
