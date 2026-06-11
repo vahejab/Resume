@@ -64,7 +64,7 @@ I am especially interested in roles involving myself immersively in every phase 
 | FPGA / Digital Design | Xilinx Vivado, Xilinx ISIM, Xilinx ChipScope, MicroBlaze-related prototyping |
 | Simulation / EDA | ModelSim, Mentor Graphics ModelSim, Cadence NC-Verilog / NCSim |
 | Lab Equipment | Digital oscilloscope, spectrum analyzer, digital multimeter, logic analyzer |
-| Operating Systems | Windows, UNIX, Linux, macOS |
+| Operating Systems | Windows, UNIX, Linux, MacOS |
 
 ### Software and Web Engineering
 
