@@ -1,4 +1,6 @@
-# Vahe R. Jabagchourian
+# VAHE R. JABAGCHOURIAN
+# ENGINEER
+# LOS ANGELES, CALIFORNIA, USA
 
 **ASIC / FPGA Hardware Design Engineer**  
 **Analog / Digital Design • Verilog HDL • FPGA Prototyper • Software Based Development Engineer • Electronic Design Automation Specialist • Test & Measurement Operator • Web Engineer**
