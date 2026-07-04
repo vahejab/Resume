@@ -85,7 +85,7 @@ I am especially interested in roles involving myself immersively in every phase 
 
 **Project:** Virtex-7 Extensible - Compute Graphics Accerator (Formely titled as the Xilinx Virtex-7 VC707 Based FPGA GPU Implementation) 
 **Timeline:** Jan 2023 – Present  
-**Repository:** [V7X-CGA](https://github.com/vahejab/V7XCGA)
+**Repository:** [V7X-CGA]([https://github.com/vahejab/V7XCGA](https://github.com/vahejab/V7X-CGA)
 
 Highlights:
 
