@@ -31,7 +31,7 @@
 
 ## 1. Professional Summary
 
-**M.S. Electrical Engineering**, Intent on developing **ASIC / FPGA hardware design** to segue into quantumetric architectural development, standardization and solidification, starting with hard foundation in digital electronic systems, verification-driven development, and engineering tool creation.
+**M.S. Electrical Engineering**, Intent on developing **ASIC / FPGA hardware design** to segue into quantiometric architectural development, standardization and solidification, starting with hard foundation in digital electronic systems, verification-driven development, and engineering tool creation.
 
 My background combines:
 
