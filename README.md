@@ -49,7 +49,7 @@ I am especially interested in roles involving myself immersively in every phase 
 
 - Architecturally minded and highly systematic in planning, implementation, and verification
 - Strongly, aggressively, meticuously and relentlessly attentive to every small detail across hardware, software, documentation, and measurement workflows
-- Comfortable learning new a multitude of new technical / non technical subjects rapidly and iterating from immediate feedback for rapid utilizaiton 
+- Comfortable learning new a multitude of new technical / non technical subjects rapidly and iterating from immediate feedback for rapid utilization 
 - Experienced translating complicated and obscure technical requirements into working systems, diagrams, dashboards, and reports
 - Strongly communicative, interactive and responsive, interpersonally, textually and visually alongside technologists, non-technologists, stakeholders, and customers served
 - Persistent, curious, and hungry to solve and eliminate difficult engineering problems
